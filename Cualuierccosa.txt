@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Mis pasos en esta calle
 Resuenan
 En otra calle
@@ -7,3 +8,13 @@ Pasar en esta calle
 Donde
 Sólo es real la niebla.
 aaaaa
+=======
+Mis pasos en esta calle
+Resuenan
+En otra calle
+Donde
+Oigo mis pasos
+Pasar en esta calle
+Donde
+Sólo es real la niebla.
+>>>>>>> 6ff123d739abdc9ab58d881634ec6aaf8c6426a2
